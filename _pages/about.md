@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: 
 
@@ -28,33 +28,26 @@ Despite these advancements, introducing this level of autonomy and complexity at
 
 Our workshop aims to bring together researchers, practitioners, and thought leaders in the ACL community to discuss and align on the current landscape, key challenges, and future directions of LLM agents.
 
-### Invited Speakers
-TBD
-
 ### Important Dates
-- **Submission Deadline:** March 01, 2025
-- **Notification of Acceptance:** April 17, 2025
-- **Camera Ready Deadline:** May 16, 2025
-- **Workshop Date:** July 31 - August 01, 2025
 
-### Topics
-- **Autonomous Planning and Decision-Making:** Mechanisms and models that empower LLM agents to make plans and independent decisions in dynamic environments.
-- **Agent Quality Evaluation:** Methodologies to assess the agent performance and to guide their improvement.
-- **Data and simulation environments:** Data architectures, datasets and simulations for building LLM agents.
-- **Agent-optimized LLMs:** Training, fine-tuning and prompting of LLMs towards desired agentic behaviors.
-- **Agent Architectures:** Design and implementation of architectural frameworks that support agency in LLMs, enabling flexibility, scalability, and robustness in various tasks.
-- **Human-Agent and Agent-Agent Interaction:** Studies on how LLM agents interact with humans and other agents, including collaboration, feedback, learning, trust, and user experience. Multi-agent systems.
-- **Safety and Robustness:** Ensuring the reliability and safety of agentic LLM systems against adversarial scenarios and malicious use.
-- **Ethics and Governance:** Frameworks and guidelines for the ethical development, deployment, and oversight of agentic LLM systems.
+{% include dates.liquid %}
 
-### Submission Guidelines
-TBD
+### Invited Speakers
 
-### Program Committee
-TBD
+Chris Manning (Stanford)
+
+Siva Reddy (McGill/Mila)
+
+Nicolas Chapados (Servicenow Research)
+
+Daniel Fried (Carnegie Mellon University)
+
+Roberta Raileanu (Meta)
+
+Tao Yu (University of Hong Kong)
 
 ### Questions
-If you have any questions, please do not hesitate to contact us at realm-workshop@gmail.com.
+If you have any questions, please do not hesitate to contact us at <a href="mailto:realm-workshop@gmail.com">realm-workshop@gmail.com</a>.
 
 ### Organizers
 {% include organizers.liquid center=true %}
