@@ -190,6 +190,25 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// Speakers
+.speaker-pic {
+  width: 180px;
+  height: auto;
+  object-fit: contain;
+  //height: 130px;
+}
+
+.speaker-name {
+  margin: 5px 0 10px;
+}
+
+.speaker-name h6 {
+  margin: 2px 0;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+
 // Profile
 
 .profile {

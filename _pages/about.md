@@ -33,18 +33,9 @@ Our workshop aims to bring together researchers, practitioners, and thought lead
 {% include dates.liquid %}
 
 ### Invited Speakers
+We have an exciting lineup of speakers. Stay tuned for more details!
 
-Chris Manning (Stanford)
-
-Siva Reddy (McGill/Mila)
-
-Nicolas Chapados (Servicenow Research)
-
-Daniel Fried (Carnegie Mellon University)
-
-Roberta Raileanu (Meta)
-
-Tao Yu (University of Hong Kong)
+{% include speakers.liquid center=true %}
 
 ### Questions
 If you have any questions, please do not hesitate to contact us at <a href="mailto:realm-workshop@gmail.com">realm-workshop@gmail.com</a>.
