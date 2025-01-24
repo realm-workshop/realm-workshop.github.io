@@ -28,6 +28,14 @@ Despite these advancements, introducing this level of autonomy and complexity at
 
 Our workshop aims to bring together researchers, practitioners, and thought leaders in the ACL community to discuss and align on the current landscape, key challenges, and future directions of LLM agents.
 
+### Venue
+
+The REALM workshop will take place at the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**), in **Vienna, Austria**.
+The conference will take place from **July 27th to August 1st, 2025**.
+Workshops will be held July 31st and August 1st.
+For more details about ACL 2025, check their [website](https://2025.aclweb.org/).
+Exact date and room information of the REALM workshop will be announced closer to the event date.
+
 ### Important Dates
 
 {% include dates.liquid %}
