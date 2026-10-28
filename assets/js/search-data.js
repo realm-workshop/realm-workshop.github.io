@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/accepted_papers/";
           },
+        },{id: "nav-invited-talks",
+          title: "Invited Talks",
+          description: "Thursday, October 29, 2026 · All times are local to Budapest.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/invited_talks/";
+          },
         },{id: "nav-schedule",
           title: "Schedule",
           description: "",
